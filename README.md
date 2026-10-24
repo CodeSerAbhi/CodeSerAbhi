@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 AI/ML projects, LLM applications, RAG, and applied Data Science<br>👯 AI/ML projects, RAG applications, data analytics, and hackathon projects<br>🤝 <br>🌱 MLOps, production-ready AI systems, advanced SQL, and LLM engineering<br>💬 Ask me about<br>⚡ Fun fact
+🔭 AI/ML projects, LLM applications, RAG, and applied Data Science<br>👯 AI/ML projects, RAG applications, data analytics, and hackathon projects<br>🤝 <br>🌱 MLOps, production-ready AI systems, advanced SQL, and LLM engineering
 
 
 ## 🌐 Socials:
